@@ -1,4 +1,4 @@
-# coepath-prework
+# codepath-prework
 ToDo app (prework for CodePath application)
 
 # Project 1 - *ToDo app*
